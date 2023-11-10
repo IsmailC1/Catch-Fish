@@ -1,3 +1,3 @@
 # Catch-Fish
 
-This is a ReactJS project taken from here:  "https://reactforbeginners.com/".
+This is a ReactJS project. Please see:  "https://reactforbeginners.com/".
